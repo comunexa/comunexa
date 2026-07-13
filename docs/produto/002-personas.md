@@ -279,3 +279,5 @@ Este documento representa as personas da primeira versão do **Comunexa Escola**
 - Documento 001 — Visão do Produto
 - Documento 003 — Jornada do Usuário
 - Documento 004 — Requisitos Funcionais
+
+---
