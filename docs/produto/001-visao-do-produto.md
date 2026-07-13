@@ -6,6 +6,8 @@
 **Última atualização:** 13/07/2026  
 **Responsável:** Elberth Moraes
 
+---
+
 > Este documento apresenta a visão estratégica do primeiro produto da Comunexa.
 
 Seu objetivo é registrar o problema que desejamos resolver, a solução proposta, o público-alvo e os princípios que orientarão todas as decisões de desenvolvimento.
@@ -243,3 +245,5 @@ Essas funcionalidades poderão ser avaliadas após a validação do MVP.
 - Documento 004 — Jornada do Usuário
 - Documento 007 — MVP
 - Documento 008 — Roadmap
+
+---
