@@ -90,7 +90,7 @@ Atualmente estamos trabalhando em:
 - ✅ Identidade da marca
 - ✅ Documentação estratégica
 - ✅ Roadmap do produto
-- 🚧 Landing Page
+- ✅ Landing Page
 - 🚧 MVP do Comunexa Escola
 - ⏳ Escolas piloto
 
